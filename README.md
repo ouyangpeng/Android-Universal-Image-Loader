@@ -1,3 +1,7 @@
+
+Android上最让人头疼的莫过于从网络获取图片、显示、回收，任何一个环节有问题都可能直接OOM，这个项目或许能帮到你。
+目的是为了实现异步的网络图片加载、缓存及显示，支持多线程异步加载。
+
 # ![Logo](https://github.com/nostra13/Android-Universal-Image-Loader/raw/master/sample/res/drawable-mdpi/ic_launcher.png) Universal Image Loader for Android
 
 This project aims to provide a reusable instrument for asynchronous image loading, caching and displaying. It is originally based on [Fedor Vlasov's project](https://github.com/thest1/LazyList) and has been vastly refactored and improved since then.
